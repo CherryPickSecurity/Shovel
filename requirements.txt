@@ -1,1 +1,2 @@
 apache-airflow==2.2.5
+starlette==0.24.0
